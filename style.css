@@ -1,0 +1,21 @@
+body {
+    font-family: Arial,  sans-serif; /* Семейство шрифтов */
+    font-size: 20px; /* Размер основного шрифта в <p></p>  */
+    background-color: #32353d; /* Цвет фона веб-страницы */
+    color: #ffffff; /* Цвет основного текста */ 
+}
+h1 {
+    color: #5988FF; /* Цвет заголовка */
+    font-size: 30px; /* Размер шрифта в пунктах */
+    font-family: Arial, sans-serif; /* Семейство шрифтов */}
+
+h2 {
+    color: #5988FF; /* Цвет заголовка */
+    font-size: 25px; /* Размер шрифта в пунктах */
+    font-family: Arial, sans-serif; /* Семейство шрифтов */
+}
+ul {
+    /*color: #ffffff; /* Цвет заголовка */
+    font-size: 20px; /* Размер шрифта в пунктах */
+    font-family: Arial, sans-serif; /* Семейство шрифтов */
+}
